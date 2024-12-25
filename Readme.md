@@ -1,8 +1,3 @@
-##How to use
-
-user: admin Moscow10
-
-##Requirements
-
+user: strax_doksa
 * requests
 * django .10
